@@ -11,7 +11,8 @@
     "url": "git+https://github.com/GabrielBloxer/dangul-cli.git"
   },
   "author": "Dot",
-  "license": CRLF"bugs": {
+  "license": "CLRF",
+  "bugs": {
     "url": "https://github.com/GabrielBloxer/dangul-cli/issues"
   },
   "homepage": "https://github.com/GabrielBloxer/dangul-cli#readme"
