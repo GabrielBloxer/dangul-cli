@@ -1,0 +1,18 @@
+{
+  "name": "dangul-cli",
+  "version": "0.0.1",
+  "description": "A Simple NPM Module for create Discord bots in TypeScript using terminal, and a Module to prepare everything to start, and make anything good to you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielBloxer/dangul-cli.git"
+  },
+  "author": "Dot",
+  "license": CRLF"bugs": {
+    "url": "https://github.com/GabrielBloxer/dangul-cli/issues"
+  },
+  "homepage": "https://github.com/GabrielBloxer/dangul-cli#readme"
+}
